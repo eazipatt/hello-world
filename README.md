@@ -1,2 +1,3 @@
 # hello-world
-one more repository
+Hello there
+jest checking in on you
